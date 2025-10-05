@@ -1,7 +1,7 @@
 #KULLANIMI :    python breacher.py -u http://example.com
 
 import requests
-import threading
+import threading 
 import argparse
 from urllib.parse import urljoin
 
